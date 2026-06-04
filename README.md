@@ -72,4 +72,14 @@ Tech Stack
     <td><img src="Screenshot 2026-06-04 153331.png" width="200"/></td>
     <td><img src="Screenshot 2026-06-04 153346.png" width="200"/></td>
   </tr>
+  <tr>
+    <td align="center"><b>Settings (cont.)</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshot 2026-06-04 153356.png" width="200"/></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

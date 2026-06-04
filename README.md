@@ -48,9 +48,9 @@ Tech Stack
     <td align="center"><b>Search & Recommendations</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshot_2026-06-04_153157.png" width="200"/></td>
-    <td><img src="Screenshot_2026-06-04_153209.png" width="200"/></td>
-    <td><img src="Screenshot_2026-06-04_153219.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153157.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153209.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153219.png" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Search by Title</b></td>
@@ -58,9 +58,9 @@ Tech Stack
     <td align="center"><b>Forum</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshot_2026-06-04_153242.png" width="200"/></td>
-    <td><img src="Screenshot_2026-06-04_153257.png" width="200"/></td>
-    <td><img src="Screenshot_2026-06-04_153308.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153242.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153257.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153308.png" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Profile</b></td>
@@ -68,8 +68,8 @@ Tech Stack
     <td align="center"><b>Settings</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshot_2026-06-04_153323.png" width="200"/></td>
-    <td><img src="Screenshot_2026-06-04_153331.png" width="200"/></td>
-    <td><img src="Screenshot_2026-06-04_153346.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153323.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153331.png" width="200"/></td>
+    <td><img src="Screenshot 2026-06-04 153346.png" width="200"/></td>
   </tr>
 </table>

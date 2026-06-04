@@ -37,3 +37,39 @@ Tech Stack
 | **Crypto** | `@noble/ciphers` + `@noble/hashes` for client-side encryption |
 | **Notifications** | Expo Notifications (push) |
 | **CI / Deploy** | EAS Build + EAS Update (OTA updates) |
+
+
+## 📱 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>My Collection</b></td>
+    <td align="center"><b>Wishlist</b></td>
+    <td align="center"><b>Search & Recommendations</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshot_2026-06-04_153157.png" width="200"/></td>
+    <td><img src="Screenshot_2026-06-04_153209.png" width="200"/></td>
+    <td><img src="Screenshot_2026-06-04_153219.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Search by Title</b></td>
+    <td align="center"><b>KittenBot AI</b></td>
+    <td align="center"><b>Forum</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshot_2026-06-04_153242.png" width="200"/></td>
+    <td><img src="Screenshot_2026-06-04_153257.png" width="200"/></td>
+    <td><img src="Screenshot_2026-06-04_153308.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Profile</b></td>
+    <td align="center"><b>Stats & Reviews</b></td>
+    <td align="center"><b>Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshot_2026-06-04_153323.png" width="200"/></td>
+    <td><img src="Screenshot_2026-06-04_153331.png" width="200"/></td>
+    <td><img src="Screenshot_2026-06-04_153346.png" width="200"/></td>
+  </tr>
+</table>
